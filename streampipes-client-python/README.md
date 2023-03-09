@@ -13,8 +13,9 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
+~
   ~
--->
+--><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/apache/streampipes?style=flat-square">
 
 
 <h1 align="center">
